@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Villa.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb0ce810e7c5ce2c09dca4cf99e539e77cc07fcd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9d895a6364d4dc70ad2823251173f5763f40e4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Villa.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Villa.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
