@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Villa.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9d895a6364d4dc70ad2823251173f5763f40e4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2511756579b015cd34a94d4e375d40407bed0630")]
 [assembly: System.Reflection.AssemblyProductAttribute("Villa.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Villa.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
