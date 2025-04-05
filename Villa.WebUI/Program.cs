@@ -9,6 +9,7 @@ using Villa.DataAccess.Context;
 using Villa.DataAccess.EntityFramework;
 using Villa.DataAccess.Repositories;
 using Villa.WebUI.Extensions;
+using FluentValidation;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,6 +22,8 @@ builder.Services.AddDbContext<VillaContext>(options =>
 {
     options.UseMongoDB(mongoDatabase.Client, mongoDatabase.DatabaseNamespace.DatabaseName);
 });
+
+builder.Services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gulen\\source\\repos\\Villa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|c:\\users\\gulen\\source\\repos\\villa\\villa.webui\\views\\feature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|solutionrelative:villa.webui\\views\\feature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|c:\\users\\gulen\\source\\repos\\villa\\villa.webui\\views\\video\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|solutionrelative:villa.webui\\views\\video\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|c:\\users\\gulen\\source\\repos\\villa\\villa.webui\\views\\feature\\updatefeature.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|solutionrelative:villa.webui\\views\\feature\\updatefeature.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|c:\\users\\gulen\\source\\repos\\villa\\villa.webui\\views\\video\\updatevideo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|solutionrelative:villa.webui\\views\\video\\updatevideo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|c:\\users\\gulen\\source\\repos\\villa\\villa.webui\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|solutionrelative:villa.webui\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|c:\\users\\gulen\\source\\repos\\villa\\villa.webui\\views\\video\\createvideo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|solutionrelative:villa.webui\\views\\video\\createvideo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|c:\\users\\gulen\\source\\repos\\villa\\villa.webui\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|solutionrelative:villa.webui\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +25,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 1008,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 1245,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,47 +42,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateFeature.cshtml",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Feature\\UpdateFeature.cshtml",
-              "RelativeDocumentMoniker": "Villa.WebUI\\Views\\Feature\\UpdateFeature.cshtml",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Feature\\UpdateFeature.cshtml",
-              "RelativeToolTip": "Villa.WebUI\\Views\\Feature\\UpdateFeature.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T09:39:49.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Feature\\Index.cshtml",
-              "RelativeDocumentMoniker": "Villa.WebUI\\Views\\Feature\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Feature\\Index.cshtml",
-              "RelativeToolTip": "Villa.WebUI\\Views\\Feature\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADkAAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Video\\Index.cshtml",
+              "RelativeDocumentMoniker": "Villa.WebUI\\Views\\Video\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Video\\Index.cshtml",
+              "RelativeToolTip": "Villa.WebUI\\Views\\Video\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T09:23:37.404Z",
+              "WhenOpened": "2025-04-05T19:40:24.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FeatureController.cs",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Controllers\\FeatureController.cs",
-              "RelativeDocumentMoniker": "Villa.WebUI\\Controllers\\FeatureController.cs",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Controllers\\FeatureController.cs",
-              "RelativeToolTip": "Villa.WebUI\\Controllers\\FeatureController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwDUAAAAvAAAAAAAAAA==",
+              "Title": "CreateVideo.cshtml",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Video\\CreateVideo.cshtml",
+              "RelativeDocumentMoniker": "Villa.WebUI\\Views\\Video\\CreateVideo.cshtml",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Video\\CreateVideo.cshtml",
+              "RelativeToolTip": "Villa.WebUI\\Views\\Video\\CreateVideo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T19:38:52.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateVideo.cshtml",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Video\\UpdateVideo.cshtml",
+              "RelativeDocumentMoniker": "Villa.WebUI\\Views\\Video\\UpdateVideo.cshtml",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Video\\UpdateVideo.cshtml",
+              "RelativeToolTip": "Villa.WebUI\\Views\\Video\\UpdateVideo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T19:37:30.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Controllers\\VideoController.cs",
+              "RelativeDocumentMoniker": "Villa.WebUI\\Controllers\\VideoController.cs",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Controllers\\VideoController.cs",
+              "RelativeToolTip": "Villa.WebUI\\Controllers\\VideoController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T09:07:55.362Z",
+              "WhenOpened": "2025-04-05T17:50:18.861Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 703,
+          "DockedWidth": 466,
           "SelectedChildIndex": -1,
           "Children": [
             {
