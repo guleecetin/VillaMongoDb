@@ -38,6 +38,9 @@ namespace Villa.WebUI.Extensions
             Services.AddScoped<IVideoDal, EfVideoDal>();
             Services.AddScoped<IVideoService, VideoManager>();
 
+            Services.AddScoped<ISubHeaderDal, EfSubHeaderDal>();
+            Services.AddScoped<ISubHeaderService,SubHeaderManager>();
+
             Services.AddScoped(typeof(IGenericDal<>), typeof(GenericRepository<>));
             Services.AddScoped(typeof(IGenericService<>), typeof(GenericManager<>));
         }
