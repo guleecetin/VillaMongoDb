@@ -1,3 +1,22 @@
+# Villa Management System Project
+
+Welcome to the **Villa Management System** – an innovative web application designed to seamlessly manage villas. This platform provides admin users with full control over villa data, allowing them to effortlessly view, modify, and manage various aspects of the system. Built using **ASP.NET Core** and **MongoDB**, this project offers scalability and flexibility to meet future needs.
+
+## Project Images
+
+### 1. 
+![Villa Image 1](villa7.png)
+
+### 2. 
+![Villa Image 1](villa4.png)
+
+### 3. 
+![Villa Image 1](villa2.png)
+
+### 4. 
+![Villa Image 1](villagiris.png)
+
+
 Villa Management System Project
 Welcome to the Villa Management System – an innovative web application designed to seamlessly manage villas. This platform provides admin users with full control over villa data, allowing them to effortlessly view, modify, and manage various aspects of the system. Built using ASP.NET Core and MongoDB, this project offers scalability and flexibility to meet future needs.
 
@@ -36,3 +55,5 @@ Efficient Villa Management: Villa data is stored in MongoDB using flexible data 
 
 3. Villa Data Management
 Seamless CRUD Operations: Admins can perform full Create, Read, Update, and Delete (CRUD) operations on villa entries. Each villa's details are stored in a flexible, scalable manner, allowing the system to evolve as new features and data types are added.
+
+
