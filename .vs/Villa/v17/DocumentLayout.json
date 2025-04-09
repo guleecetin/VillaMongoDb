@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\gulen\\source\\repos\\Villa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|c:\\users\\gulen\\source\\repos\\villa\\villa.webui\\views\\shared\\components\\_defaultquestion\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|solutionrelative:villa.webui\\views\\shared\\components\\_defaultquestion\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|c:\\users\\gulen\\source\\repos\\villa\\villa.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|solutionrelative:villa.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|c:\\users\\gulen\\source\\repos\\villa\\villa.webui\\views\\feature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|solutionrelative:villa.webui\\views\\feature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|c:\\users\\gulen\\source\\repos\\villa\\villa.webui\\views\\shared\\components\\_defaultfeature\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33654B24-EA8B-4E73-95E3-4E1ADE6490DF}|Villa.WebUI\\Villa.WebUI.csproj|solutionrelative:villa.webui\\views\\shared\\components\\_defaultfeature\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1245,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,54 +30,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Feature\\Index.cshtml",
-              "RelativeDocumentMoniker": "Villa.WebUI\\Views\\Feature\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Feature\\Index.cshtml",
-              "RelativeToolTip": "Villa.WebUI\\Views\\Feature\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T21:05:20.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Shared\\Components\\_DefaultQuestion\\Default.cshtml",
-              "RelativeDocumentMoniker": "Villa.WebUI\\Views\\Shared\\Components\\_DefaultQuestion\\Default.cshtml",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Shared\\Components\\_DefaultQuestion\\Default.cshtml",
-              "RelativeToolTip": "Villa.WebUI\\Views\\Shared\\Components\\_DefaultQuestion\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T20:48:53.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Shared\\Components\\_DefaultFeature\\Default.cshtml",
-              "RelativeDocumentMoniker": "Villa.WebUI\\Views\\Shared\\Components\\_DefaultFeature\\Default.cshtml",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Shared\\Components\\_DefaultFeature\\Default.cshtml",
-              "RelativeToolTip": "Villa.WebUI\\Views\\Shared\\Components\\_DefaultFeature\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T20:15:56.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "Villa.WebUI\\Views\\Default\\Index.cshtml",
               "ToolTip": "C:\\Users\\gulen\\source\\repos\\Villa\\Villa.WebUI\\Views\\Default\\Index.cshtml",
               "RelativeToolTip": "Villa.WebUI\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T19:50:35.188Z",
+              "WhenOpened": "2025-04-09T08:47:10.121Z",
               "EditorCaption": ""
             }
           ]

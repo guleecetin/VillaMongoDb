@@ -22,9 +22,9 @@ namespace Villa.WebUI.Controllers
 
         public async Task<IActionResult> Index()
         {
-            var values = await _videoService.TGetListAsync();
-            var valueList = _mapper.Map<List<ResultVideoDto>>(values);
-            return View(valueList);
+            var values = await _videoService.TGetListAsync(); 
+            var valueList = _mapper.Map<List<ResultVideoDto>>(values); 
+            return View(valueList); 
         }
         public async Task<IActionResult> DeleteVideo(ObjectId id)
         {
